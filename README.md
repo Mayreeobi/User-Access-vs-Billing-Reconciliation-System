@@ -2,7 +2,7 @@
 
 Automated system to identify and quantify revenue leakage from mismatches between user account access and billing records.
 
-![Dashboard Preview](tableau/screenshots/executive_dashboard.png)
+<sub>*![Dashboard Preview](tableau/screenshots/executive_dashboard.png)*</sub>
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Live%20Dashboard-blue)](your-tableau-link)
 [![SQL](https://img.shields.io/badge/SQL-SQLServer-blue)](user_billing_reconciliation.db)
