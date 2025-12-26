@@ -2,11 +2,9 @@
 
 Automated system to identify and quantify revenue leakage from mismatches between user account access and billing records.
 
-<sub>*![Dashboard Preview](tableau/screenshots/executive_dashboard.png)*</sub>
-
 [![Tableau Public](https://img.shields.io/badge/Tableau-Live%20Dashboard-blue)](your-tableau-link)
-[![SQL](https://img.shields.io/badge/SQL-SQLServer-blue)](user_billing_reconciliation.db)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](requirements.txt)
+[![SQL](https://img.shields.io/badge/SQL-SQLServer-blue)](https://github.com/Mayreeobi/Revenue-Reconciliation-System/blob/main/revenue%20reconciliation.sql)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://github.com/Mayreeobi/Revenue-Reconciliation-System/blob/main/data%20reconcilation%20generator.ipynb)
 
 ---
 
@@ -78,7 +76,7 @@ saas-user-billing-reconciliation/
 │   ├── create_views.sql              # Reconciliation views
 │   └── sample_queries.sql            # Example analyses
 │
-└── tableau/
+└── Power BI/
     └── Dashboard                     # Dashboard   
 ```
 
@@ -410,6 +408,10 @@ High-Value Fixes (Fix in < 1 month):
 
 ---
 
-**Last Updated:** December 2025  
-**Version:** 1.0.0  
-**Status:** ✅ Production-Ready Portfolio Project
+## 🔗 Project Assets
+
+- **SQL Queries:**  [https://github.com/Mayreeobi/Revenue-Reconciliation-System/blob/main/revenue%20reconciliation.sql]
+
+- **Python Data Generator:**  (https://github.com/Mayreeobi/Revenue-Reconciliation-System/blob/main/data%20reconcilation%20generator.ipynb)
+
+---
